@@ -9,5 +9,6 @@ Some folders have a <b>'Trial'</b> solution too which is nothing but an initial 
 The other files are the accepted ones which involve a specific algorithm, method or simply mathematics.
 
 ### Note
-1. For some of the solutions, I have taken help of the internet and hence some can be strikingly similar to them.
-2. Soon I plan on initializing a <b>ReadMe</b> file for every problem containing some learnings, tips, tricks & resources regarding that problem. These will be folder specific.
+1. All solutions are in python. I'm a python guy you see.
+2. For some of the solutions, I have taken help of the internet and hence some can be strikingly similar to them.
+3. Soon I plan on initializing a <b>ReadMe</b> file for every problem containing some learnings, tips, tricks & resources regarding that problem. These will be folder specific.
