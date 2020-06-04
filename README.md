@@ -22,5 +22,4 @@ The other files are the accepted ones which involve a specific algorithms, metho
 
 
 ### Note
-1. For some of the solutions, I have taken help of the internet and hence some can be strikingly similar to them.
-2. I plan on initializing a <b>ReadMe</b> file for every problem which will contain the concept & resources regarding that problem.
+I plan on initializing a <b>ReadMe</b> file for every problem which will contain the concept & resources regarding that problem.
