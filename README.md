@@ -19,7 +19,8 @@ The other files are the accepted ones which involve a specific algorithms, metho
 | 3-B  | [Fuel Injection Perfection](https://github.com/yashtazor/Google-Foobar-Challenge/tree/master/Level%20-%203/B%20-%20Fuel%20Injection%20Perfection)  |
 | 3-C  | [Doomsday Fuel](https://github.com/yashtazor/Google-Foobar-Challenge/tree/master/Level%20-%203/C%20-%20Doomsday%20Fuel)  |
 | 4-A  | [Escape Pods](https://github.com/yashtazor/Google-Foobar-Challenge/tree/master/Level%20-%204/A%20-%20Escape%20Pods)  |
+| 4-B  | [Bringing a Gun To a Guard Fight (Not mine. Forgot to save my code but this solution helped!)](https://github.com/smaranjitghose/Foobar_Challenge/blob/master/Solutions_Python/bringing_gun_to_a_guard_fight.py)  |
 
 
 ### Note
-I plan on initializing a <b>ReadMe</b> file for every problem which will contain the concept & resources regarding that problem.
+1. For all problems, help can be found on internet. Just a quick Google search will help you a lot!
