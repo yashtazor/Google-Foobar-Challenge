@@ -12,7 +12,7 @@ The other files are the accepted ones which involve a specific algorithms, metho
 
 | Level  | Problem Name |
 | ------------- | ------------- |
-| 1  | [Solar Doomsday](https://github.com/yashtazor/Google-Foobar-Challenge/tree/master/Level%20-%201/A%20-%20Solar%20Doomsday)  |
+| 1  | [Solar Doomsday](https://github.com/yashtazor/Google-Foobar-Challenge/tree/master/Level%20-%201/Solar%20Doomsday)  |
 | 2-A  | [Lovely Lucky LAMBs](https://github.com/yashtazor/Google-Foobar-Challenge/tree/master/Level%20-%202/A%20-%20Lovely%20Lucky%20LAMBs)  |
 | 2-B  | [Power Hungry](https://github.com/yashtazor/Google-Foobar-Challenge/tree/master/Level%20-%202/B%20-%20Power%20Hungry)  |
 | 3-A  | [The Grandest Staircase Of Them All](https://github.com/yashtazor/Google-Foobar-Challenge/tree/master/Level%20-%203/A%20-%20The%20Grandest%20Staircase%20Of%20Them%20All)  |
@@ -20,6 +20,10 @@ The other files are the accepted ones which involve a specific algorithms, metho
 | 3-C  | [Doomsday Fuel](https://github.com/yashtazor/Google-Foobar-Challenge/tree/master/Level%20-%203/C%20-%20Doomsday%20Fuel)  |
 | 4-A  | [Escape Pods](https://github.com/yashtazor/Google-Foobar-Challenge/tree/master/Level%20-%204/A%20-%20Escape%20Pods)  |
 | 4-B  | [Bringing a Gun To a Guard Fight (Not mine. Forgot to save my code but this solution helped!)](https://github.com/smaranjitghose/Foobar_Challenge/blob/master/Solutions_Python/bringing_gun_to_a_guard_fight.py)  |
+| 5  | [Dodge the Lasers](https://github.com/yashtazor/Google-Foobar-Challenge/tree/master/Level%20-%205/Dodge%20the%20Lasers)  |  
+
+
+![Finish](https://user-images.githubusercontent.com/42903859/84990740-39556d80-b163-11ea-933c-eaba8f78a404.png)
 
 
 ### Note
