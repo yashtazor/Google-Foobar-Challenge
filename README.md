@@ -1,4 +1,4 @@
-# Google Foobar Challenge 2020.
+# Google Foobar Challenge 2020
 
 This is my take on the 'Foobar' challenge by Google.  
 
