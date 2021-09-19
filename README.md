@@ -27,3 +27,5 @@ The other files are the accepted ones which involve a specific algorithms, metho
 1. For all problems, help can be found on internet. Just a quick Google search will help you a lot!
 
 ![Finish](https://user-images.githubusercontent.com/42903859/84990740-39556d80-b163-11ea-933c-eaba8f78a404.png)
+
+<b> <p align = "center"> Created by Yash Dekate. </p> </b>
