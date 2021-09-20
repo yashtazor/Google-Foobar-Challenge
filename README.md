@@ -6,9 +6,9 @@ This is my take on the 'Foobar' challenge by Google.
 
 I've arranged the problems as they were presented to me by Google. You can easily navigate through each of the folders or use the table below to have a look at the problems.
 Some folders have a <b>'Trial'</b> solution too which is nothing but an initial try to the problem. These are generally the brute force approaches which do not pass all the test cases.
-The other files are the accepted ones which involve a specific algorithms, methods or simply mathematics.  
+The other files are the accepted ones which involve specific algorithms, methods or simply mathematics.  
 
-### Problem List
+## Problems List
 
 | Level  | Problem Name |
 | ------------- | ------------- |
@@ -23,7 +23,7 @@ The other files are the accepted ones which involve a specific algorithms, metho
 | 5  | [Dodge the Lasers](https://github.com/yashtazor/Google-Foobar-Challenge/tree/master/Level%20-%205/Dodge%20the%20Lasers)  |  
 
 
-### Note
+## Note
 1. For all problems, help can be found on internet. Just a quick Google search will help you a lot!
 
 ![Finish](https://user-images.githubusercontent.com/42903859/84990740-39556d80-b163-11ea-933c-eaba8f78a404.png)
